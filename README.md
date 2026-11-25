@@ -76,15 +76,15 @@ ___
 Follow me on Scratch for more cool stuff! https://scratch.mit.edu/users/xX_Badiboop4_Xx/
 
 #### Credits (Scratch Usernames)
-> Programming & Design\
+> **Programming & Design**\
 > @xX_Badiboop4_Xx\
 > @djpro (Text engine)
 > 
-> Beta testers\
+> **Beta testers**\
 > @hedgehog10thousand\
-> @C0D3Boy
-> @brezel640
+> @C0D3Boy\
+> @brezel640\
 > @cellulose3d
 > 
-> Thumbnails & Art\
+> **Thumbnails & Art**\
 > @xX_Badiboop4_Xx
