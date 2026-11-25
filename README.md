@@ -6,13 +6,9 @@ Music Maker a tool made in vanilla Scratch that allows users to create, edit and
 > Please note that this program is still in development, and will contain bugs. You can report issues on my Scratch profile or in the project's comments.
 
 ___
-<br>
 
-## Navigation
+## Getting Started
 
-<img width="1512" height="1143" alt="image" src="https://github.com/user-attachments/assets/569efa2d-43fd-4997-a967-777ae0ec1d22" />
-
-⠀
 > [!NOTE]
 > For this tutorial, I'd recommend using **TurboWarp Desktop** to get the best out of Music Maker. 
 > Open up the project in **TurboWarp** via the link in the Scratch project's description, and save the project as an `.sb3` file.
