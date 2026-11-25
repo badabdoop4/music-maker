@@ -70,3 +70,7 @@ A: Yes! Features such as the Sound Library and .midi file support will be added 
 
 Q: What's your favourite pizza topping?\
 A: Uhhh... I'd say barbecue chicken with capsicum. That's a tough one.
+
+___
+
+Follow me on Scratch for more cool stuff! https://scratch.mit.edu/users/xX_Badiboop4_Xx/
