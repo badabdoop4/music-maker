@@ -12,11 +12,11 @@ ___
 > [!NOTE]
 > For this tutorial, I'd recommend using **TurboWarp Desktop** to get the best out of Music Maker. 
 > Open up the project in **TurboWarp** via the link in the Scratch project's description, and save the project as an `.sb3` file.
-> Transfer the file to a safe location on your PC, then open up the project on **TurboWarp Desktop**.
+> Transfer the file to a safe location on your PC, then open up the project in **TurboWarp Desktop**.
 
 Music Maker's main screen, or the **layout window**, is divided into four different sections:
 - The **menu bar** is the rectangular dock at the top of the screen. By clicking on the different text labels, you can open **context** menus to manage your project, add new elements and open up configuration.
-- Directly underneath the menu bar is the **control panel**. Here you can access the settings page, add **sound loops** and **sound effects** to your songs, and control media playback.
+- The pill-shaped notch directly underneath the menu bar is the **control panel**. Here you can access the settings page, add **sound loops** and **sound effects** to your songs, and control media playback.
 - On the top right corner of the screen is the **window switcher**. You can press the buttons to switch between the **layout**, **sound editor** and **MIDI editor** windows.
 
 > [!TIP]
@@ -26,7 +26,7 @@ Music Maker's main screen, or the **layout window**, is divided into four differ
 
 ## Configuration
 
-By clicking the **Configuration** in the **control panel**, you can access Music Maker's configuration panel. From here you can modify your project, change the look and style of Music Maker, and configure accessibility settings.
+By clicking the **configuration** button in the **control panel**, you can access Music Maker's configuration panel. From here you can modify your project, change the look and style of Music Maker, and configure accessibility settings.
 The configuration window has three tabs, that you can select from the bar at the side of the popup.
 - **Project Settings**: Configure your project's tempo, time signature, and details.
 - **Personalisation**: Change the look and feel of Music Maker.
