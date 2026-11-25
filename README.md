@@ -15,7 +15,7 @@ ___
 > Transfer the file to a safe location on your PC, then open up the project on **TurboWarp Desktop**.
 
 Music Maker's main screen, or the **layout window**, is divided into four different sections:
-- The **menu bar** is the rectangular dock at the top of the screen that spans across the whole canvas. By clicking on the different text labels, you can open **context** menus to manage your project, add new elements and open up configuration.
+- The **menu bar** is the rectangular dock at the top of the screen. By clicking on the different text labels, you can open **context** menus to manage your project, add new elements and open up configuration.
 - Directly underneath the menu bar is the **control panel**. Here you can access the settings page, add **sound loops** and **sound effects** to your songs, and control media playback.
 - On the top right corner of the screen is the **window switcher**. You can press the buttons to switch between the **layout**, **sound editor** and **MIDI editor** windows.
 
