@@ -26,8 +26,8 @@ Music Maker's main screen, or the **layout window**, is divided into four differ
 
 ## Configuration
 
-By clicking the **configuration** button in the **control panel**, you can access Music Maker's configuration panel. From here you can modify your project, change the look and style of Music Maker, and configure accessibility settings.
-The configuration window has three tabs, that you can select from the bar at the side of the popup.
+By clicking the **configuration** button in the **control panel**, you can access Music Maker's configuration window. From here you can modify your project, change the look and style of Music Maker, and configure accessibility settings.
+The configuration window has three tabs, that you can select from the bar at the side of the window.
 - **Project Settings**: Configure your project's tempo, time signature, and details.
 - **Personalisation**: Change the look and feel of Music Maker.
 - **Accessibility**: Configure text to speech and TTS language and modify or remove window animations.
