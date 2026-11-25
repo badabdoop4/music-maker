@@ -52,3 +52,21 @@ The configuration window has three tabs, that you can select from the bar at the
 > - Swedish
 > - Turkish
 > - Welsh
+
+## FAQ
+Still got some questions? Take a look below or ask on my Scratch profile!
+
+Q: Why is it so slow?\
+A: Make sure you are running the project on TurboWarp.
+
+Q: How do I save my project?\
+A: Your changes are stored in lists, so they are automatically saved and embedded into the `.sb3` file when you save the project.
+
+Q: How do I export my song?\
+A: You can export your songs by clicking "File" in the menu bar, then "Export". Exported songs are optimised to run smoothly on Scratch.
+
+Q: Will Music Maker receive updates in the future?\
+A: Yes! Features such as the Sound Library and .midi file support will be added in the future, along with various bug fixes. 
+
+Q: What's your favourite pizza topping?\
+A: Uhhh... I'd say barbecue chicken with capsicum. That's a tough one.
