@@ -53,6 +53,8 @@ The configuration window has three tabs, that you can select from the bar at the
 > - Turkish
 > - Welsh
 
+<br>
+
 ## FAQ
 Still got some questions? Take a look below or ask on my Scratch profile!
 
