@@ -70,8 +70,8 @@ A: You can export your songs by clicking "File" in the menu bar, then "Export". 
 Q: Will Music Maker receive updates in the future?\
 A: Yes! Features such as the Sound Library and .midi file support will be added in the future, along with various bug fixes. 
 
-Q: What's your favourite pizza topping?\
-A: Uhhh... I'd say barbecue chicken with capsicum. That's a tough one.
+Q: Why did music maker take so long?\
+A: I have a life.
 
 ___
 
