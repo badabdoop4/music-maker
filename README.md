@@ -90,3 +90,5 @@ Follow me on Scratch for more cool stuff! https://scratch.mit.edu/users/xX_Badib
 > 
 > **Thumbnails & Art**\
 > @xX_Badiboop4_Xx
+
+<img width="88" height="31" alt="Glue3D, by GL00B" src="https://github.com/user-attachments/assets/92ec7e9d-7aef-42d4-b170-1243f773616d" />
