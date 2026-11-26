@@ -33,7 +33,7 @@ Music Maker's main screen, or the **layout window**, is divided into four differ
 By clicking the **configuration** button in the **control panel**, you can access Music Maker's configuration window. From here you can modify your project, change the look and style of Music Maker, and configure accessibility settings.
 The configuration window has three tabs, that you can select from the bar at the side of the window.
 - **Project Settings**: Configure your project's tempo, time signature, and details.
-- **Personalisation**: Change the look and feel of Music Maker.
+- **Personalisation**: Change the look and feel of Music Maker. Options such as changing accent colours will be available in a future update.
 - **Accessibility**: Configure text to speech and TTS language and modify or remove window animations.
 
 > [!IMPORTANT]
@@ -62,6 +62,9 @@ The configuration window has three tabs, that you can select from the bar at the
 ## FAQ
 Still got some questions? Take a look below or ask on my Scratch profile!
 
+Q: Is Music Maker being released exclusively on the Glue3D Discord, or will it be on Scratch?\
+A: https://scratch.mit.edu/projects/1392837252/
+
 Q: Why is it so slow?\
 A: Make sure you are running the project on TurboWarp.
 
@@ -72,7 +75,7 @@ Q: How do I export my song?\
 A: You can export your songs by clicking "File" in the menu bar, then "Export". Exported songs are optimised to run smoothly on Scratch.
 
 Q: Will Music Maker receive updates in the future?\
-A: Yes! Features such as the Sound Library and .midi file support will be added in the future, along with various bug fixes. 
+A: Yes! Features such as the Sound Library and .midi file support will be added in the future, along with various bug fixes and QoL additions.
 
 Q: Why did music maker take so long?\
 A: I have a life.
@@ -101,3 +104,9 @@ Follow me on Scratch for more cool stuff! https://scratch.mit.edu/users/xX_Badib
 <a href="https://youtube.com/@Badiboop4">
   <img width="88" height="31" alt="youtube" src="https://github.com/user-attachments/assets/ef8f8c89-fd09-4783-b741-9e3861c216e8" />
 </a>
+
+<br>
+<br>
+
+<sub>©2026 @xX_Badiboop4_Xx on Scratch. Music Maker is distributed under the **Attribution-ShareAlike 2.0 Generic** license.\
+You may remix, share and adapt this project so long as you provide appropriate credit and indicate where changes are made.</sub>
