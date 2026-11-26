@@ -1,4 +1,8 @@
-<img width="3780" height="945" alt="Github Banner" src="https://github.com/user-attachments/assets/f4723d0d-3de8-42d1-9615-d52db9a86270" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/1952cf4b-c16f-40a4-a084-f0af696a06dd">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/ff20d2e5-87fe-4b02-86ca-506a420aa2b3">
+  <img alt="Music Maker Banner" src="https://github.com/user-attachments/assets/1952cf4b-c16f-40a4-a084-f0af696a06dd">
+</picture>
 
 Music Maker a tool made in vanilla Scratch that allows users to create, edit and share songs! 
 
